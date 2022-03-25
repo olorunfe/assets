@@ -1,0 +1,14 @@
+{
+    "name": "Number #0066",
+    "symbol": "SAND",
+    "description": "State & A Hotel",
+    "seller_fee_basis_points": 500,
+    "image": "66.gif",
+   
+    "properties": {
+        "creators": [{"address": "C6ZAVx7SsrStwQLrbnp6G3piHyqg4osqphCeg9NvxEeh", "share": 100}],
+        "files": [{"uri": "66.gif", "type": "image/gif"}]
+    },
+    "category": "video",
+    "collection": {"name": "Hotel", "family": "Hotel"}
+}
